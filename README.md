@@ -1,4 +1,4 @@
-# Joke API Project 🎭
+# Joke API Project 
 
 This project is a **FastAPI-based application** that fetches jokes from the [JokeAPI](https://sv443.net/jokeapi/v2/), processes them, and stores them in a local SQLite database.
 
